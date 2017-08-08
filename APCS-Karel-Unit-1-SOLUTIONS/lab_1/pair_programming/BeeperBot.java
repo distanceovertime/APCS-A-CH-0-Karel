@@ -11,6 +11,10 @@ public class BeeperBot extends Robot
         super(st, av, dir, numBeepers);
     }
     
+    /**
+     * Precondition:  robot is at 1st AVE and 4th ST facing west
+     * Postcondition:  robot will have 4 beepers
+     */
     public void findAllBeepers() {
         findFirstBeeper();
         pickTwoBeepers();

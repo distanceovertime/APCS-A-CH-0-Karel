@@ -1,6 +1,7 @@
 #BlueJ class context
 comment0.params=
 comment0.target=void\ findAllBeepers()
+comment0.text=\n\ Precondition\:\ \ robot\ is\ at\ 1st\ AVE\ and\ 4th\ ST\ facing\ west\n\ Postcondition\:\ \ robot\ will\ have\ 4\ beepers\n
 comment1.params=
 comment1.target=void\ findFirstBeeper()
 comment2.params=
