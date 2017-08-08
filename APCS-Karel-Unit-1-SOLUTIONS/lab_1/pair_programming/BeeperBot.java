@@ -45,6 +45,10 @@ public class BeeperBot extends Robot
         turnRight();
     }
     
+    
+    /**
+     * Another comment--after clone
+     */
     public void pickTwoBeepers() {
         pickBeeper();
         moveThree();

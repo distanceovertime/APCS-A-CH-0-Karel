@@ -10,6 +10,7 @@ comment2.target=void\ findNextBeeper()
 comment2.text=\n\ Precondition\:\ Assumes\ Karel\ is\ three\ steps\ above\ beeper\n\ Postcondition\:\ \ Will\ be\ on\ a\ beeper\n
 comment3.params=
 comment3.target=void\ pickTwoBeepers()
+comment3.text=\n\ Another\ comment--after\ clone\n
 comment4.params=
 comment4.target=void\ moveThree()
 comment5.params=
