@@ -22,12 +22,22 @@ public class BeeperBot extends Robot
         pickTwoBeepers();
     }
     
+    
+    /**
+     * Precondition:  Test
+     * Postcondition: Testing
+     */
+
     public void findFirstBeeper() {
         turnAround();
         move();
         move();
     }
     
+    /**
+     * Precondition: Assumes Karel is three steps above beeper
+     * Postcondition:  Will be on a beeper
+     */
     public void findNextBeeper() {
         //Assumes that karel is three steps above a beeper and facing East
         turnRight();
