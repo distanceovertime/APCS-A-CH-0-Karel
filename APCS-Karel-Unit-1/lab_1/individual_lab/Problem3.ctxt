@@ -1,6 +1,12 @@
 #BlueJ class context
-comment0.params=
-comment0.target=void\ giveCarlBeeper()
+comment0.target=Problem3
+comment0.text=\r\n\ @author\ \:\ \ D.\ Appel\r\n
 comment1.params=
-comment1.target=void\ pickAndMoveBeeper()
-numComments=2
+comment1.target=void\ giveCarlBeeper()
+comment2.params=
+comment2.target=void\ pickAndMoveBeeper()
+comment3.params=
+comment3.target=void\ turnRight()
+comment4.params=
+comment4.target=void\ turn180()
+numComments=5

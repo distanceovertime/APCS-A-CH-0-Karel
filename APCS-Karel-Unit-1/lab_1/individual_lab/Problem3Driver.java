@@ -23,7 +23,7 @@ public class Problem3Driver implements Directions
         World.setBeeperColor(Color.magenta);
         World.setStreetColor(Color.blue);
         World.setNeutroniumColor(Color.green.darker());
-        World.setDelay(3);  
+        World.setDelay(20);  
         World.setVisible(true);
     }
 }

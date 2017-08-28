@@ -12,6 +12,13 @@ public class BeeperBot extends Robot
     }
     
     public void findAllBeepers() {
+      
+        turnLeft();
+        turnLeft();
+        move();
+        move();
+        move();
+        move();
         
     }
    
